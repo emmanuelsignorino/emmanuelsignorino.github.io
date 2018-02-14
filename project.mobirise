@@ -363,8 +363,8 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-9799-640x480.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9800-2-1613x1210.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -399,8 +399,8 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-9790-640x480.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-9789-1814x1361.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
